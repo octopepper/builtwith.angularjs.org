@@ -3688,6 +3688,29 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Yummypets",
+      "thumb": "yummypets/thumb.png",
+      "desc": "Yummypets, the social petwork, is a community dedicated to pet lovers.",
+      "url": "https://www.yummypets.net/",
+      "submitter": "Octopepper",
+      "submissionDate": "2015-07-08",
+      "tags": [
+        "Go RESTful Api",
+        "CSS3",
+        "LESS",
+        "Google Places",
+        "Google Closure Compiler",
+        "Redis",
+        "MySql",
+        "Amazon Services",
+        "Production",
+        "Capistrano",
+        "Local Storage",
+        "Grunt",
+        "SEO snapshots"
+      ]
     }
 
   ]
